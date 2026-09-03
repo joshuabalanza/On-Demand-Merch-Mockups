@@ -1,0 +1,6 @@
+{
+  "name": "On-Demand Merch Mockups",
+  "description": "Upload your logo to place it on realistic product shots with AI, preview across apparel and accessories, customize placement and prompt new scenes, and export print-ready 300 DPI files with production specs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
